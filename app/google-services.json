@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "920479776251",
+    "firebase_url": "https://indonesiatravelguide-2ed14.firebaseio.com",
+    "project_id": "indonesiatravelguide-2ed14",
+    "storage_bucket": "indonesiatravelguide-2ed14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920479776251:android:d6a29fc82cd10b4d",
+        "android_client_info": {
+          "package_name": "com.dark.amarel.indonesiatravelguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920479776251-12hl1rc01jahn68kh3ka4sfrbfg2khoe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dark.amarel.indonesiatravelguide",
+            "certificate_hash": "6221eeee800b5c9aadc8faa8d6b0476a5e6ef202"
+          }
+        },
+        {
+          "client_id": "920479776251-s12l2rnqu07epvut7i21nrnovn00d07v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFr2H2H339YEJ4BA1zGhSnsYZIWvJuQnk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920479776251-s12l2rnqu07epvut7i21nrnovn00d07v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
